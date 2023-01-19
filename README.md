@@ -65,7 +65,7 @@ $ git clone https://github.com/douglasgmsantos/chat-gpt-com-whatsapp
 $ cd chat-gpt-com-whatsapp
 
 # Instalar Dependências?
-$ yarn install
+$ yarn add
 
 # Pegar a API Key e Organization ID na OpenAI
 A primeira coisa que precisamos aqui é da api key da openai, uma chave para autorização de envio das nossas requisições. Entre neste link para pegar sua chave https://beta.openai.com/account/api-keys, é bem auto explicativo.
