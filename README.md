@@ -1,9 +1,3 @@
-<h1 align="center">
-
-<img src="https://raw.githubusercontent.com/khalleb/ignews/main/public/images/avatar.svg" alt="rocketshoes" width="100px"/>
-
-</h1>
-
 <p align="center">
   Chat GPT - Integração WhatsApp 
   <br>
@@ -65,7 +59,7 @@ $ git clone https://github.com/douglasgmsantos/chat-gpt-com-whatsapp
 $ cd chat-gpt-com-whatsapp
 
 # Instalar Dependências?
-$ yarn add
+$ yarn install
 
 # Pegar a API Key e Organization ID na OpenAI
 A primeira coisa que precisamos aqui é da api key da openai, uma chave para autorização de envio das nossas requisições. Entre neste link para pegar sua chave https://beta.openai.com/account/api-keys, é bem auto explicativo.
