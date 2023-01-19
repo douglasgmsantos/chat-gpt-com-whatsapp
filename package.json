@@ -1,0 +1,16 @@
+{
+  "name": "chat-gpt-com-whatsapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "douglasgmsantos",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.1.0",
+    "venom-bot": "^4.3.7"
+  }
+}
